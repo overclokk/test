@@ -4,6 +4,7 @@
 
 #Grunt developer
 node_modules
+Gruntfile.js
 
 #Sass directory
 css/src/sass/.sass-cache
@@ -17,3 +18,4 @@ lang/ItalyStrap.po
 
 #SVN files
 .svn
+Gruntfile.js
