@@ -1,6 +1,7 @@
 #Git files
 .gitattributes
 .git
+npm-debug.log
 
 #Grunt developer
 node_modules
