@@ -20,3 +20,4 @@ lang/ItalyStrap.po
 #SVN files
 .svn
 Gruntfile.js
+*.zip

@@ -10,6 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-release": "^0.9.0"
+    "grunt-release": "^0.9.0",
+    "grunt-github-releaser": "^0.1.17",
+    "grunt-contrib-compress": "^0.13.0"
   }
 }
